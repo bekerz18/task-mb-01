@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tugas01 Zam Zam Saeful Bahtiar</string>
+    <string name="hero">Good morning, </string>
+    <string name="user">Zam!</string>
+    <string name="asking">What do you want to do today?</string>
+    <string name="product01">Solve Basic Stats?</string>
+    <string name="card01_title">MODUS</string>
+    <string name="card01_desc">You can solve problem search data have a max frequency of numeric data sets</string>
+    <string name="card02_title">MEDIAN</string>
+    <string name="card02_desc">You can solve to search numeric data of data sets</string>
+    <string name="card03_title">MEAN</string>
+    <string name="card03_desc">You can solve to search average of data sets</string>
+    <string name="product02">Read about this app?</string>
+    <string name="product02_cta">Click Here</string>
+    <string name="product_other">More? soon...</string>
+    <string name="solve">Solve</string>
+    <string name="your_datas">Your Datas</string>
+</resources>
